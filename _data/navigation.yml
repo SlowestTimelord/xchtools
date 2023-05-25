@@ -1,24 +1,24 @@
 - name: XCH.tools
   link: /
   new_window: false
-  highlight: false
+  highlight: true
 - name: XCH.farm
-  link: /#xchfarm
-  new_window: false
+  link: https://xch.farm/
+  new_window: true
   highlight: false
 - name: XCH.trade
-  link: /#xchtrade
-  new_window: false
+  link: https://xch.trade/
+  new_window: true
   highlight: false
 - name: XCH.builders
-  link: /#xchbuilders
-  new_window: false
+  link: https://xch.builders/
+  new_window: true
   highlight: false
 - name: XCH.fm
-  link: /#xchfm
-  new_window: false
+  link: https://xch.fm/
+  new_window: true
   highlight: false
 - name: XCH.ninja
-  link: /#xchninja
-  new_window: false
+  link: https://xch.ninja/
+  new_window: true
   highlight: false
