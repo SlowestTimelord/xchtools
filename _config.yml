@@ -1,0 +1,42 @@
+# ----
+# Site
+
+title: XCH.tools
+url: "https://xch.tools"
+baseurl:
+
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /images/xchtool-icon-dark.png
+description: Complimentary tools for you
+
+# -----
+# Build
+
+timezone: Etc/UTC
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
+  - scope:
+      path: "index.html"
+    values:
+      layout: "default"
+
+jekyll-archives:
+  enabled:
+    - categories
+
+plugins:
+  - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-paginate
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
