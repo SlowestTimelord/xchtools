@@ -3,22 +3,26 @@
   new_window: false
   highlight: true
 - name: XCH.farm
-  link: https://xch.farm/
-  new_window: true
+  link: /#xchfarm
+  new_window: false
   highlight: false
 - name: XCH.trade
-  link: https://xch.trade/
-  new_window: true
+  link: /#xchtrade
+  new_window: false
   highlight: false
 - name: XCH.builders
-  link: https://xch.builders/
-  new_window: true
+  link: /#xchbuilders
+  new_window: false
   highlight: false
 - name: XCH.fm
-  link: https://xch.fm/
-  new_window: true
+  link: /#xchfm
+  new_window: false
+  highlight: false
+- name: XCH.app
+  link: /#xchapp
+  new_window: false
   highlight: false
 - name: XCH.ninja
-  link: https://xch.ninja/
-  new_window: true
+  link: /#xchninja
+  new_window: false
   highlight: false

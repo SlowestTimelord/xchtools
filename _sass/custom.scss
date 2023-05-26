@@ -3,3 +3,8 @@
     width: auto;
     margin-left: 0px;
 }
+
+/* smooth scroll to anchors */
+html {
+	scroll-behavior: smooth;
+}
